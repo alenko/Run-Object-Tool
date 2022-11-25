@@ -1,8 +1,8 @@
 {
   "id": "d3eca734-1cc1-4cce-91ef-05ad91ed75b6",
-  "name": "Run Object Tool",
-  "publisher": "ZHU YUN",
-  "version": "18.0.0.1",
+  "name": "Run Objects Tool",
+  "publisher": "ZHUs YUN",
+  "version": "14.0.0.1",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -13,7 +13,7 @@
   "dependencies": [],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "18.0.0.0",
+  "application": "14.0.0.0",
   "idRanges": [
     {
       "from": 83100,
@@ -22,5 +22,5 @@
   ],
   "contextSensitiveHelpUrl": "https://AddDimension.com/help/",
   "showMyCode": true,
-  "runtime": "7.0"
+  "runtime": "3.2"
 }
